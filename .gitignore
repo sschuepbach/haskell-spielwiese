@@ -1,0 +1,12 @@
+# Ignore all
+*
+
+# Don't ignore files with extensions
+!*.*
+
+# Don't ignore directories
+!*/
+
+# But ignore files with the following extensions
+*.hi
+*.o
