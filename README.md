@@ -10,5 +10,5 @@ Compiler), ein CLI für [Cabal](https://www.haskell.org/cabal/) (Builder/Paketie
 
 ## GHC
 
-Kompilieren: `ghc <zu kompilierende Datei>`
-Interaktiver Modus: `ghci`
+* Kompilieren: `ghc <zu kompilierende Datei>`
+* Interaktiver Modus: `ghci`
