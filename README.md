@@ -23,6 +23,8 @@ functions in a .hs file, loading it up and messing around with them and then
 changing the .hs file, loading it up again and so on." ([Learn You a Haskell for
 Great Good!: Introduction](http://learnyouahaskell.com/introduction))
 
-## Resources
+## Ressourcen
+* [Haskell Documentations Overview](https://www.haskell.org/documentation)
+* [Haskell Wiki](https://wiki.haskell.org)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
 * [Real World Haskell](http://book.realworldhaskell.org)
