@@ -12,3 +12,17 @@ Compiler), ein CLI für [Cabal](https://www.haskell.org/cabal/) (Builder/Paketie
 
 * Kompilieren: `ghc <zu kompilierende Datei>`
 * Interaktiver Modus: `ghci`
+
+### GHCI
+
+* Laden von Haskell-Sourcecode: `:l <Pfad zur Datei>`
+* Erneutes Laden: `:r`
+
+"The usual workflow for me when playing around in stuff is defining some
+functions in a .hs file, loading it up and messing around with them and then
+changing the .hs file, loading it up again and so on." ([Learn You a Haskell for
+Great Good!: Introduction](http://learnyouahaskell.com/introduction))
+
+## Resources
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
+* [Real World Haskell](http://book.realworldhaskell.org)
