@@ -11,12 +11,16 @@ Compiler), ein CLI für [Cabal](https://www.haskell.org/cabal/) (Builder/Paketie
 ## GHC
 
 * Kompilieren: `ghc <zu kompilierende Datei>`
+* Standardmässig werden alle benötigen Abhängigkeiten in die Binärdatei gepackt.
+  Um die Haskell-Bibliotheken dynamisch zu laden, kann mit dem `-dynamic`
+kompiliert werden
 * Interaktiver Modus: `ghci`
 
 ### GHCI
 
 * Laden von Haskell-Sourcecode: `:l <Pfad zur Datei>`
 * Erneutes Laden: `:r`
+* Editieren in ghci: `:e`
 
 "The usual workflow for me when playing around in stuff is defining some
 functions in a .hs file, loading it up and messing around with them and then
